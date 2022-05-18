@@ -47,9 +47,9 @@ img{
 
 }
 
-.arrow{
-    /* height: 28px; */
-    /* width: 160px; */
-    size: 20px;
-
+button{
+    border-radius: 5px;
+    background-color: blue;
+    cursor: pointer;
+    border-color: aliceblue;
 }
